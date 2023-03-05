@@ -11,7 +11,7 @@ Contact me here on discord
 Want to host selfbot 24/7 for free do it here!
 https://bot-hosting.net/?aff=891417792736268328
 
-
+--------------------
 CHANGELOG: Beta 0.2
 - recoveryproccess Command Added
 - uptime Command Added
