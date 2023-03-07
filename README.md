@@ -13,7 +13,7 @@ https://bot-hosting.net/?aff=891417792736268328
 
 --------------------
 CHANGELOG: Beta 0.3
-- text changed to help command
+- help Command Updated
 - swift Command Added
 - selfbot Command Added
 - servericon Command Added
