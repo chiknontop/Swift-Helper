@@ -19,6 +19,7 @@ CHANGELOG: Beta 0.4
 - new import pystyle
 - new import requests 
 - new comments to group commands 
+- removed dm in recoveryproccess due to bugs
 --------------------
 CHANGELOG: Beta 0.3
 - help Command Updated
