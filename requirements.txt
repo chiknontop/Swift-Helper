@@ -1,2 +1,5 @@
 discord.py-self
 colorama
+pystyle
+datetime
+requests 
