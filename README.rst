@@ -12,21 +12,19 @@ Set-Up
     .. code:: sh
 
         $ git clone https://github.com/ScammerAlert/Swift-Staff-Helper
-        $ cd Swift-Staff-Helper
-        $ python3 main.py
 
 - Navigate to the Directory:
 
-  .. code:: sh
+    .. code:: sh
 
         $ cd Swift-Staff-Helper
 
 - Run the File:
 
-  .. code:: sh
+    .. code:: sh
     
         # Command-Line
-        $ python3 main.py
+        $ python main.py
 
         # Or, Run the Batch File:
         $ run.bat
